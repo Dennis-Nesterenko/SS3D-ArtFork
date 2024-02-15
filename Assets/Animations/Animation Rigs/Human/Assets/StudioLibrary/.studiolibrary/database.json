@@ -140,7 +140,7 @@
         "type": ".anim",
         "folder": "../../Animations/Movement/Walk",
         "category": "Walk",
-        "modified": 1707282172.1176312,
+        "modified": 1707954186.114107,
         "__class__": "studiolibrarymaya.animitem.AnimItem"
     },
     "../../Animations/Movement/Walk/Human@DEF_WalkStartN.anim": {
@@ -150,6 +150,15 @@
         "folder": "../../Animations/Movement/Walk",
         "category": "Walk",
         "modified": 1707289131.0787482,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
+    "../../Animations/Movement/Walk/WalkBackup.anim": {
+        "name": "WalkBackup.anim",
+        "path": "../../Animations/Movement/Walk/WalkBackup.anim",
+        "type": ".anim",
+        "folder": "../../Animations/Movement/Walk",
+        "category": "Walk",
+        "modified": 1707952537.6102922,
         "__class__": "studiolibrarymaya.animitem.AnimItem"
     },
     "../../Poses": {
@@ -167,7 +176,7 @@
         "type": ".pose",
         "folder": "../../Poses",
         "category": "Poses",
-        "modified": 1707290044.218973,
+        "modified": 1707962220.1592,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../Poses/Lower Body": {
@@ -198,6 +207,42 @@
         "__class__": "studiolibrary.folderitem.FolderItem",
         "icon": "trash.svg"
     },
+    "../../Trash/Human@DEF_Stance (2).pose": {
+        "name": "Human@DEF_Stance (2).pose",
+        "path": "../../Trash/Human@DEF_Stance (2).pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1707959371.1108136,
+        "__class__": "studiolibrary.libraryitem.LibraryItem"
+    },
+    "../../Trash/Human@DEF_Stance (3).pose": {
+        "name": "Human@DEF_Stance (3).pose",
+        "path": "../../Trash/Human@DEF_Stance (3).pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1707960065.0390723,
+        "__class__": "studiolibrary.libraryitem.LibraryItem"
+    },
+    "../../Trash/Human@DEF_Stance (4).pose": {
+        "name": "Human@DEF_Stance (4).pose",
+        "path": "../../Trash/Human@DEF_Stance (4).pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1707960213.815641,
+        "__class__": "studiolibrary.libraryitem.LibraryItem"
+    },
+    "../../Trash/Human@DEF_Stance.pose": {
+        "name": "Human@DEF_Stance.pose",
+        "path": "../../Trash/Human@DEF_Stance.pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1707290044.218973,
+        "__class__": "studiolibrary.libraryitem.LibraryItem"
+    },
     "../../Trash/Human@DEF_WalkN (2).anim": {
         "name": "Human@DEF_WalkN (2).anim",
         "path": "../../Trash/Human@DEF_WalkN (2).anim",
@@ -206,6 +251,15 @@
         "category": "Trash",
         "modified": 1707282058.8177526,
         "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
+    "../../Trash/Human@DEF_WalkN (3).anim": {
+        "name": "Human@DEF_WalkN (3).anim",
+        "path": "../../Trash/Human@DEF_WalkN (3).anim",
+        "type": ".anim",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1707282172.1176312,
+        "__class__": "studiolibrary.libraryitem.LibraryItem"
     },
     "../../Trash/Human@DEF_WalkN.anim": {
         "name": "Human@DEF_WalkN.anim",

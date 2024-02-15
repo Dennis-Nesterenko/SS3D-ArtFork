@@ -1,13 +1,8 @@
 {
   "metadata": {
-    "timeUnit": "film",
-    "linearUnit": "m",
-    "angularUnit": "deg",
     "description": "",
-    "endFrame": 48,
-    "startFrame": 24,
     "user": "Work",
-    "ctime": "1707954186",
+    "ctime": "1707959371",
     "version": "1.0.0",
     "references": [
       {
@@ -18,7 +13,7 @@
       }
     ],
     "mayaVersion": "2023",
-    "mayaSceneFile": "F:/My Drive/My Drive/SS3D GoogleDrive/Assets/Animations/Entities/Humanoid/Movement/Human@Default_WalkingSet.ma"
+    "mayaSceneFile": "F:/My Drive/My Drive/SS3D GoogleDrive/Assets/Animations/Entities/Humanoid/Movement/Human@DEF_WalkingSet (2024_02_07 08_06_14 UTC).mb"
   }
 ,
   "objects": {
@@ -26,15 +21,15 @@
       "attrs": {
         "rotateY": {
           "type": "doubleAngle",
-          "value": 0.7632989656158908
+          "value": 1.7700756643353346
         },
         "rotateX": {
           "type": "doubleAngle",
-          "value": -5.425050914671516
+          "value": 1.1838902697113982
         },
         "rotateZ": {
           "type": "doubleAngle",
-          "value": 2.8700601159763317
+          "value": 4.641554515448266
         }
       }
     },
@@ -42,15 +37,15 @@
       "attrs": {
         "rotateY": {
           "type": "doubleAngle",
-          "value": -14.27835536248295
+          "value": -21.448998296402884
         },
         "rotateX": {
           "type": "doubleAngle",
-          "value": -4.099492021463039
+          "value": -6.859201881934329
         },
         "rotateZ": {
           "type": "doubleAngle",
-          "value": 69.43636645686027
+          "value": 72.07466345907756
         }
       }
     },
@@ -58,15 +53,15 @@
       "attrs": {
         "rotateY": {
           "type": "doubleAngle",
-          "value": -0.3099314065417604
+          "value": 0.0
         },
         "rotateX": {
           "type": "doubleAngle",
-          "value": -1.65186232671779
+          "value": 8.996404675971744
         },
         "rotateZ": {
           "type": "doubleAngle",
-          "value": 0.6194264296071366
+          "value": 0.0
         }
       }
     },
@@ -74,11 +69,11 @@
       "attrs": {
         "rotateY": {
           "type": "doubleAngle",
-          "value": -13.424501239662733
+          "value": -14.946124076136929
         },
         "rotateX": {
           "type": "doubleAngle",
-          "value": 17.878868038351513
+          "value": 3.0872926918802697
         },
         "translateZ": {
           "type": "doubleLinear",
@@ -94,7 +89,7 @@
         },
         "rotateZ": {
           "type": "doubleAngle",
-          "value": 8.219659962647807
+          "value": 7.476807769583348
         }
       }
     },
@@ -146,7 +141,7 @@
         },
         "translateX": {
           "type": "doubleLinear",
-          "value": 0.0
+          "value": -1.5685662776547816e-05
         },
         "translateY": {
           "type": "doubleLinear",
@@ -162,15 +157,15 @@
       "attrs": {
         "rotateY": {
           "type": "doubleAngle",
-          "value": -1.649740357685012
+          "value": -1.7700756643353346
         },
         "rotateX": {
           "type": "doubleAngle",
-          "value": -6.757412529405482
+          "value": 0.19275083837140597
         },
         "rotateZ": {
           "type": "doubleAngle",
-          "value": 3.8925065277662925
+          "value": -4.641554515448266
         }
       }
     },
@@ -178,15 +173,15 @@
       "attrs": {
         "rotateY": {
           "type": "doubleAngle",
-          "value": 25.393166134175463
+          "value": 20.125651861888002
         },
         "rotateX": {
           "type": "doubleAngle",
-          "value": 10.798321568765608
+          "value": -5.183872289554792
         },
         "rotateZ": {
           "type": "doubleAngle",
-          "value": -60.47778296608462
+          "value": -66.50082144709467
         }
       }
     },
@@ -194,27 +189,11 @@
       "attrs": {
         "rotateY": {
           "type": "doubleAngle",
-          "value": 3.222050434389983
-        },
-        "rotateX": {
-          "type": "doubleAngle",
-          "value": 35.33574457702282
-        },
-        "rotateZ": {
-          "type": "doubleAngle",
-          "value": -6.439564221186453
-        }
-      }
-    },
-    "Human_AnimRig:ShoulderIK_CTR_L": {
-      "attrs": {
-        "rotateY": {
-          "type": "doubleAngle",
           "value": 0.0
         },
         "rotateX": {
           "type": "doubleAngle",
-          "value": 0.0
+          "value": 8.996404675971744
         },
         "rotateZ": {
           "type": "doubleAngle",
@@ -350,7 +329,7 @@
       "attrs": {
         "rotateY": {
           "type": "doubleAngle",
-          "value": 0.0
+          "value": 15.480789040651656
         },
         "rotateX": {
           "type": "doubleAngle",
@@ -358,11 +337,11 @@
         },
         "translateZ": {
           "type": "doubleLinear",
-          "value": -0.26637314910647575
+          "value": 0.0
         },
         "translateX": {
           "type": "doubleLinear",
-          "value": -0.09951770176935626
+          "value": 0.0
         },
         "translateY": {
           "type": "doubleLinear",
@@ -458,7 +437,7 @@
       "attrs": {
         "rotateY": {
           "type": "doubleAngle",
-          "value": 6.050118697109741
+          "value": -18.08007035009703
         },
         "rotateX": {
           "type": "doubleAngle",
@@ -466,11 +445,11 @@
         },
         "translateZ": {
           "type": "doubleLinear",
-          "value": 0.2393597460990877
+          "value": 0.10990306356576829
         },
         "translateX": {
           "type": "doubleLinear",
-          "value": 0.09992303425101032
+          "value": 0.0
         },
         "translateY": {
           "type": "doubleLinear",
@@ -486,15 +465,15 @@
       "attrs": {
         "rotateY": {
           "type": "doubleAngle",
-          "value": 10.667568647067386
+          "value": 8.846079623358621
         },
         "rotateX": {
           "type": "doubleAngle",
-          "value": -13.230101091100789
+          "value": 0.09977658336321425
         },
         "rotateZ": {
           "type": "doubleAngle",
-          "value": 1.1416505112387907
+          "value": 0.7096985044323594
         }
       }
     },
@@ -502,27 +481,27 @@
       "attrs": {
         "rotateY": {
           "type": "doubleAngle",
-          "value": -8.514408582167205
+          "value": 0.0
         },
         "rotateX": {
           "type": "doubleAngle",
-          "value": -6.111564490371501
+          "value": 0.0
         },
         "translateZ": {
           "type": "doubleLinear",
-          "value": -0.09463502393374257
+          "value": 0.0
         },
         "translateX": {
           "type": "doubleLinear",
-          "value": -4.440892098500626e-18
+          "value": -0.013847100026316908
         },
         "translateY": {
           "type": "doubleLinear",
-          "value": -0.028087944393239774
+          "value": 0.0
         },
         "rotateZ": {
           "type": "doubleAngle",
-          "value": 0.8027181035445684
+          "value": 0.0
         }
       }
     },
@@ -530,15 +509,15 @@
       "attrs": {
         "rotateY": {
           "type": "doubleAngle",
-          "value": -0.7249968158135215
+          "value": -4.470646079012536
         },
         "rotateX": {
           "type": "doubleAngle",
-          "value": 17.00306565500614
+          "value": 0.06035419890098328
         },
         "rotateZ": {
           "type": "doubleAngle",
-          "value": -6.864220372222914
+          "value": -3.468882569005158
         }
       }
     },
@@ -546,15 +525,15 @@
       "attrs": {
         "rotateY": {
           "type": "doubleAngle",
-          "value": -0.48963611764212217
+          "value": -5.556578584713691e-06
         },
         "rotateX": {
           "type": "doubleAngle",
-          "value": -0.02014016599507673
+          "value": 5.940612329929529
         },
         "rotateZ": {
           "type": "doubleAngle",
-          "value": 4.710908702460662
+          "value": 4.452321476111285e-06
         }
       }
     },
@@ -566,7 +545,7 @@
         },
         "rotateX": {
           "type": "doubleAngle",
-          "value": 3.0260678602599476
+          "value": 0.0
         },
         "rotateZ": {
           "type": "doubleAngle",
@@ -798,7 +777,7 @@
       "attrs": {
         "scaleX": {
           "type": "double",
-          "value": 1.0000000000001255
+          "value": 1.0000000000000753
         },
         "rotateY": {
           "type": "doubleAngle",
@@ -806,7 +785,7 @@
         },
         "scaleY": {
           "type": "double",
-          "value": 1.0000000000001255
+          "value": 1.0000000000000753
         },
         "rotateX": {
           "type": "doubleAngle",
@@ -830,7 +809,7 @@
         },
         "scaleZ": {
           "type": "double",
-          "value": 1.0000000000001255
+          "value": 1.0000000000000753
         }
       }
     },
@@ -866,7 +845,7 @@
       "attrs": {
         "rotateX": {
           "type": "doubleAngle",
-          "value": 10.0
+          "value": 0.0
         }
       }
     },
@@ -874,7 +853,7 @@
       "attrs": {
         "rotateX": {
           "type": "doubleAngle",
-          "value": -7.499999999999999
+          "value": 0.0
         }
       }
     },
@@ -882,27 +861,27 @@
       "attrs": {
         "rotateY": {
           "type": "doubleAngle",
-          "value": 0.0
+          "value": -42.56803803904703
         },
         "rotateX": {
           "type": "doubleAngle",
-          "value": 0.0
+          "value": -6.29846697067762
         },
         "translateZ": {
           "type": "doubleLinear",
-          "value": 0.0
+          "value": 0.09271134692461985
         },
         "translateX": {
           "type": "doubleLinear",
-          "value": 0.0
+          "value": 0.36362975161081884
         },
         "translateY": {
           "type": "doubleLinear",
-          "value": 0.0
+          "value": 0.3549719377181954
         },
         "rotateZ": {
           "type": "doubleAngle",
-          "value": 0.0
+          "value": -4.64671443637566
         }
       }
     },
@@ -954,15 +933,471 @@
       "attrs": {
         "rotateY": {
           "type": "doubleAngle",
-          "value": 0.2999578790363887
+          "value": 14.946124076136925
         },
         "rotateX": {
           "type": "doubleAngle",
-          "value": 4.608302493585831
+          "value": 3.0872926918802697
         },
         "rotateZ": {
           "type": "doubleAngle",
-          "value": -3.3360774701456726
+          "value": -7.476807769583348
+        }
+      }
+    },
+    "Human_AnimRig:ShoulderIK_CTR_L": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Middle1_CTR_L": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Ring3_CTR_L": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Middle2_CTR_L": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Middle3_CTR_L": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Ring2_CTR_L": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Ring1_CTR_L": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Index3_CTR_L": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Index2_CTR_L": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Index1_CTR_L": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Thumb3_CTR_L": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Thumb2_CTR_L": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Thumb1_CTR_L": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Ring3_CTR_R": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Ring2_CTR_R": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Ring1_CTR_R": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Middle3_CTR_R": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Middle2_CTR_R": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Middle1_CTR_R": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Index3_CTR_R": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Index2_CTR_R": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Index1_CTR_R": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Thumb3_CTR_R": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Thumb2_CTR_R": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Thumb1_CTR_R": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:hold_CTR_L": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:hold_CTR_R": {
+      "attrs": {
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
         }
       }
     }
