@@ -176,7 +176,7 @@
         "type": ".pose",
         "folder": "../../Poses",
         "category": "Poses",
-        "modified": 1707962220.1592,
+        "modified": 1707973391.0209856,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../Poses/Lower Body": {
@@ -232,6 +232,24 @@
         "folder": "../../Trash",
         "category": "Trash",
         "modified": 1707960213.815641,
+        "__class__": "studiolibrary.libraryitem.LibraryItem"
+    },
+    "../../Trash/Human@DEF_Stance (5).pose": {
+        "name": "Human@DEF_Stance (5).pose",
+        "path": "../../Trash/Human@DEF_Stance (5).pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1707967194.0527477,
+        "__class__": "studiolibrary.libraryitem.LibraryItem"
+    },
+    "../../Trash/Human@DEF_Stance (6).pose": {
+        "name": "Human@DEF_Stance (6).pose",
+        "path": "../../Trash/Human@DEF_Stance (6).pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1707973324.8256302,
         "__class__": "studiolibrary.libraryitem.LibraryItem"
     },
     "../../Trash/Human@DEF_Stance.pose": {

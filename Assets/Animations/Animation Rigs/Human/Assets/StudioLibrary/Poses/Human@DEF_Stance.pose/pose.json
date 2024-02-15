@@ -2,7 +2,7 @@
   "metadata": {
     "description": "",
     "user": "Work",
-    "ctime": "1707962220",
+    "ctime": "1707973391",
     "version": "1.0.0",
     "references": [
       {
@@ -241,15 +241,15 @@
       "attrs": {
         "rotateX": {
           "type": "doubleAngle",
-          "value": -0.6321915512114306
+          "value": -9.686266870404628
         },
         "rotateZ": {
           "type": "doubleAngle",
-          "value": 4.0532905705258555
+          "value": 2.1672963520716246
         },
         "rotateY": {
           "type": "doubleAngle",
-          "value": -8.824199662075781
+          "value": -2.9551792200515523
         }
       }
     },
@@ -477,15 +477,15 @@
       "attrs": {
         "rotateX": {
           "type": "doubleAngle",
-          "value": 12.139328414773605
+          "value": 10.408672288563782
         },
         "rotateZ": {
           "type": "doubleAngle",
-          "value": 65.14341245323469
+          "value": 62.00211237572064
         },
         "rotateY": {
           "type": "doubleAngle",
-          "value": -32.52557603515473
+          "value": -32.71754433064945
         }
       }
     },
@@ -497,7 +497,7 @@
         },
         "rotateZ": {
           "type": "doubleAngle",
-          "value": 10.825381352903957
+          "value": 7.83953434081514
         },
         "translateZ": {
           "type": "doubleLinear",
@@ -509,11 +509,11 @@
         },
         "rotateX": {
           "type": "doubleAngle",
-          "value": 10.462223989608908
+          "value": -10.58869283335131
         },
         "rotateY": {
           "type": "doubleAngle",
-          "value": -9.080250357689664
+          "value": -16.526380094205837
         }
       }
     },
@@ -537,15 +537,15 @@
       "attrs": {
         "rotateX": {
           "type": "doubleAngle",
-          "value": 17.530734980909155
+          "value": 15.556420102238386
         },
         "rotateZ": {
           "type": "doubleAngle",
-          "value": 0.0
+          "value": -1.213889922790956
         },
         "rotateY": {
           "type": "doubleAngle",
-          "value": 0.0
+          "value": -4.297623793181717
         }
       }
     },
@@ -601,15 +601,15 @@
       "attrs": {
         "rotateX": {
           "type": "doubleAngle",
-          "value": 10.462223989608908
+          "value": -20.864276350809757
         },
         "rotateZ": {
           "type": "doubleAngle",
-          "value": -10.825381352903957
+          "value": -3.9800199175139452
         },
         "rotateY": {
           "type": "doubleAngle",
-          "value": 9.080250357689664
+          "value": 10.552223375437983
         }
       }
     },
@@ -749,15 +749,15 @@
       "attrs": {
         "rotateX": {
           "type": "doubleAngle",
-          "value": 12.139328414773605
+          "value": 12.33779463073925
         },
         "rotateZ": {
           "type": "doubleAngle",
-          "value": -65.14341245323469
+          "value": -61.484678823417084
         },
         "rotateY": {
           "type": "doubleAngle",
-          "value": 32.52557603515473
+          "value": 36.92894682521279
         }
       }
     }
