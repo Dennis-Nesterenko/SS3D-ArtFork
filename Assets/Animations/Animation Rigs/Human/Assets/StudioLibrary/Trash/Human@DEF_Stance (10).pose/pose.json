@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "description": "",
+    "user": "Work",
+    "ctime": "1708150896",
+    "version": "1.0.0",
+    "references": [
+      {
+        "filename": "F:/OneDrive/Projects/Games/RESS3D/Build/SS3D-ArtFork/Assets/Animations/Animation Rigs/Human/Human@AnimRig.ma",
+        "unresolved": "F:/OneDrive/Projects/Games/RESS3D/Build/SS3D-ArtFork/Assets/Animations/Animation Rigs/Human/Human@AnimRig.ma",
+        "namespace": ":Human_AnimRig",
+        "node": "CHR_Rig_DefaultRN"
+      }
+    ],
+    "mayaVersion": "2023",
+    "mayaSceneFile": "F:/OneDrive/Projects/Games/RESS3D/Build/SS3D-ArtFork/Assets/Animations/Characters/Humanoid/Actions/Human@DEF_ActionsSet.ma"
+  }
+,
+  "objects": {
+    "Human_AnimRig:FootIK_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": -8.881784197001253e-18
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 8.752081215231403
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": -0.03674557803649361
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.09944938899021642
+        }
+      }
+    }
+  }
+}
