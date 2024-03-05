@@ -197,6 +197,15 @@
         "modified": 1707290002.3757093,
         "__class__": "studiolibrary.folderitem.FolderItem"
     },
+    "../../Poses/Lower Body/Human@Stance_RifleLow.pose": {
+        "name": "Human@Stance_RifleLow.pose",
+        "path": "../../Poses/Lower Body/Human@Stance_RifleLow.pose",
+        "type": ".pose",
+        "folder": "../../Poses/Lower Body",
+        "category": "Lower Body",
+        "modified": 1709168782.9789338,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
     "../../Poses/Upper Body": {
         "name": "Upper Body",
         "path": "../../Poses/Upper Body",
@@ -350,6 +359,15 @@
         "category": "Trash",
         "modified": 1707281985.8525033,
         "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
+    "../../Trash/Human@Stance_RifleLow.pose": {
+        "name": "Human@Stance_RifleLow.pose",
+        "path": "../../Trash/Human@Stance_RifleLow.pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1709168636.366956,
+        "__class__": "studiolibrary.libraryitem.LibraryItem"
     },
     "../../Trash/Poses": {
         "name": "Poses",
