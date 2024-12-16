@@ -1,0 +1,1425 @@
+{
+  "metadata": {
+    "description": "",
+    "user": "Personal",
+    "ctime": "1734314858",
+    "version": "1.0.0",
+    "references": [
+      {
+        "filename": "E:/OneDrive/Projects/Games/RESS3D/Build/SS3D-ArtFork/Assets/Animations/Animation Rigs/Human/HumanAnimRig.ma",
+        "unresolved": "E:/OneDrive/Projects/Games/RESS3D/Build/SS3D-ArtFork/Assets/Animations/Animation Rigs/Human/HumanAnimRig.ma",
+        "namespace": "Human_AnimRig",
+        "node": "Human_AnimRigRN"
+      }
+    ],
+    "mayaVersion": "2024",
+    "mayaSceneFile": "E:/OneDrive/Projects/Games/RESS3D/Build/SS3D-ArtFork/Assets/Animations/Characters/Humanoid/Misc/HumanStances.ma"
+  }
+,
+  "objects": {
+    "Human_AnimRig:Middle1_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Spine_CTR": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -3.779680049219762
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 3.468882569005163
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 4.470646079012533
+        }
+      }
+    },
+    "Human_AnimRig:FootIK_CTR_R": {
+      "attrs": {
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -25.801064895726388
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": -0.08528420016310641
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.041145207370136314
+        }
+      }
+    },
+    "Human_AnimRig:LowerArmFK_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:FeetPlatform_CTR": {
+      "attrs": {
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Object_CTR": {
+      "attrs": {
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Middle1_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:ArmOptions_CTR_R": {
+      "attrs": {
+        "Weapon": {
+          "type": "double",
+          "value": 0.0
+        },
+        "Fist": {
+          "type": "double",
+          "value": 0.0
+        },
+        "Relaxed": {
+          "type": "double",
+          "value": 0.0
+        },
+        "SpaceSwitchElbow": {
+          "type": "enum",
+          "value": 1
+        },
+        "SpaceSwitchHand": {
+          "type": "enum",
+          "value": 1
+        }
+      }
+    },
+    "Human_AnimRig:Index2_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Hips_CTR": {
+      "attrs": {
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 6.055713803658613
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -2.2857064533437645
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -9.86411418931793
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Index2_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:HandFK_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Index3_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:HandFK_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:UpperArmFK_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:FootRoll_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Thumb3_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Head_CTR_ANIM": {
+      "attrs": {
+        "ConcernedR": {
+          "type": "double",
+          "value": 0.0
+        },
+        "Closed_R": {
+          "type": "double",
+          "value": 0.0
+        },
+        "Tight_L": {
+          "type": "double",
+          "value": 0.0
+        },
+        "UpDownR": {
+          "type": "double",
+          "value": 0.0
+        },
+        "Bored_L": {
+          "type": "double",
+          "value": 0.0
+        },
+        "Happy_L": {
+          "type": "double",
+          "value": 0.0
+        },
+        "Tight_R": {
+          "type": "double",
+          "value": 0.0
+        },
+        "LeftRightL": {
+          "type": "double",
+          "value": 0.0
+        },
+        "Tilt_R": {
+          "type": "double",
+          "value": 0.0
+        },
+        "Horizontal_R": {
+          "type": "double",
+          "value": 0.0
+        },
+        "Bored_R": {
+          "type": "double",
+          "value": 0.0
+        },
+        "UpDownL": {
+          "type": "double",
+          "value": 0.0
+        },
+        "Horizontal_L": {
+          "type": "double",
+          "value": 0.0
+        },
+        "ViewTarget": {
+          "type": "bool",
+          "value": false
+        },
+        "ConcernedL": {
+          "type": "double",
+          "value": 0.0
+        },
+        "Angry_R": {
+          "type": "double",
+          "value": 0.0
+        },
+        "Closed_L": {
+          "type": "double",
+          "value": 0.0
+        },
+        "Happy_R": {
+          "type": "double",
+          "value": 0.0
+        },
+        "Vertical_R": {
+          "type": "double",
+          "value": 0.0
+        },
+        "Vertical_L": {
+          "type": "double",
+          "value": 0.0
+        },
+        "Dead_L": {
+          "type": "double",
+          "value": 0.0
+        },
+        "Dead_R": {
+          "type": "double",
+          "value": 0.0
+        },
+        "Tilt_L": {
+          "type": "double",
+          "value": 0.0
+        },
+        "LeftRightR": {
+          "type": "double",
+          "value": 0.0
+        },
+        "Angry_L": {
+          "type": "double",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:ArmOptions_CTR_L": {
+      "attrs": {
+        "Weapon": {
+          "type": "double",
+          "value": 0.0
+        },
+        "Fist": {
+          "type": "long",
+          "value": 0
+        },
+        "Relaxed": {
+          "type": "long",
+          "value": 0
+        },
+        "SpaceSwitchElbow": {
+          "type": "enum",
+          "value": 1
+        },
+        "SpaceSwitchHand": {
+          "type": "enum",
+          "value": 1
+        }
+      }
+    },
+    "Human_AnimRig:RigSettings_CTR": {
+      "attrs": {
+        "Feminine": {
+          "type": "double",
+          "value": 0.0
+        },
+        "Skeleton": {
+          "type": "bool",
+          "value": false
+        },
+        "Muscularity": {
+          "type": "double",
+          "value": 0.0
+        },
+        "Breasts": {
+          "type": "double",
+          "value": 0.0
+        },
+        "Fingers": {
+          "type": "bool",
+          "value": true
+        },
+        "Obese": {
+          "type": "double",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:LowerLegFK_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:UpperLegFK_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:ShoulderFK_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:KneeVectorIK_CTR_L": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:PDA_CTR": {
+      "attrs": {
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.3549719377181954
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 4.64671443637566
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 42.56803803904703
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.09271134692461985
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -6.29846697067762
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": -0.36362975161081884
+        }
+      }
+    },
+    "Human_AnimRig:Thumb1_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Toe_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Middle3_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Index3_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Pelvis_CTR": {
+      "attrs": {
+        "translateY": {
+          "type": "doubleLinear",
+          "value": -0.0061932040159248915
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -2.59191195788845
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -10.562818923341862
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": -0.03532490923870678
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.47544579174338697
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.019473377773986836
+        }
+      }
+    },
+    "Human_AnimRig:ShoulderIK_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:FootOptions_CTR_L": {
+      "attrs": {
+        "SpaceSwitchKnee": {
+          "type": "enum",
+          "value": 0
+        },
+        "SpaceSwitchLeg": {
+          "type": "enum",
+          "value": 1
+        }
+      }
+    },
+    "Human_AnimRig:KneeVectorIK_CTR_R": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.08196359652590275
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.09467032578223261
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": -2.8609728062178874e-08
+        }
+      }
+    },
+    "Human_AnimRig:LowerArmFK_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:MainRoot_CTR": {
+      "attrs": {
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.000000000000025
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.000000000000025
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.000000000000025
+        }
+      }
+    },
+    "Human_AnimRig:Neck_CTR": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:ObjectOptions_CTR": {
+      "attrs": {
+        "WeaponSelection": {
+          "type": "enum",
+          "value": 5
+        },
+        "SpaceSwitchObject": {
+          "type": "enum",
+          "value": 1
+        }
+      }
+    },
+    "Human_AnimRig:Index1_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Ring2_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:LowerLegFK_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:FootIK_CTR_L": {
+      "attrs": {
+        "translateY": {
+          "type": "doubleLinear",
+          "value": -8.881784197001253e-18
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.07735836016514448
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:ElbowVectorIK_CTR_L": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear",
+          "value": -0.16200200740530274
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": -0.2866900850051716
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": -0.18448771636712558
+        }
+      }
+    },
+    "Human_AnimRig:UpperLegFK_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Ring1_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:FootOptions_CTR_R": {
+      "attrs": {
+        "SpaceSwitchKnee": {
+          "type": "enum",
+          "value": 0
+        },
+        "SpaceSwitchLeg": {
+          "type": "enum",
+          "value": 1
+        }
+      }
+    },
+    "Human_AnimRig:Ring1_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Ring2_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:hold_CTR_R": {
+      "attrs": {
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Ring3_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:HandIK_CTR_R": {
+      "attrs": {
+        "translateY": {
+          "type": "doubleLinear",
+          "value": -0.39821445648372333
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 80.57786984020717
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -16.16043259579785
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": -0.07735321485106968
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 5.6008082467412255
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.3064148064876194
+        }
+      }
+    },
+    "Human_AnimRig:ShoulderIK_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Chest_CTR": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Middle2_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Middle3_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:FootRoll_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:FootFK_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Middle2_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Thumb2_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Ring3_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Toe_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Thumb2_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:FPVCam": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "RotationDampening": {
+          "type": "double",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:ElbowVectorIK_CTR_R": {
+      "attrs": {
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.12261272948250738
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": -0.14803822890858753
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": -0.18448733489739907
+        }
+      }
+    },
+    "Human_AnimRig:HandIK_CTR_L": {
+      "attrs": {
+        "translateY": {
+          "type": "doubleLinear",
+          "value": -0.3956115442052963
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -78.14798654278795
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 8.738612683275806
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.03295497889072576
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 23.142081235676656
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": -0.2821212755978945
+        }
+      }
+    },
+    "Human_AnimRig:Thumb3_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:ShoulderFK_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Index1_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:UpperArmFK_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Thumb1_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:FootFK_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:Head_CTR": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "Human_AnimRig:hold_CTR_L": {
+      "attrs": {
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        }
+      }
+    }
+  }
+}
