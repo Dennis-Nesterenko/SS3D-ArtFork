@@ -185,7 +185,11 @@
         "type": ".pose",
         "folder": "../../Poses",
         "category": "Poses",
+<<<<<<< Updated upstream
         "modified": 1708152612.3622525,
+=======
+        "modified": 1707973324.8256302,
+>>>>>>> Stashed changes
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../Poses/Lower Body": {
@@ -279,6 +283,7 @@
         "modified": 1707967194.0527477,
         "__class__": "studiolibrary.libraryitem.LibraryItem"
     },
+<<<<<<< Updated upstream
     "../../Trash/Human@DEF_Stance (6).pose": {
         "name": "Human@DEF_Stance (6).pose",
         "path": "../../Trash/Human@DEF_Stance (6).pose",
@@ -315,6 +320,8 @@
         "modified": 1708146986.091807,
         "__class__": "studiolibrary.libraryitem.LibraryItem"
     },
+=======
+>>>>>>> Stashed changes
     "../../Trash/Human@DEF_Stance.pose": {
         "name": "Human@DEF_Stance.pose",
         "path": "../../Trash/Human@DEF_Stance.pose",
