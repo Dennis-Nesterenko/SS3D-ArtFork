@@ -5,7 +5,7 @@
         "type": "Folder",
         "folder": "../..",
         "category": "StudioLibrary",
-        "modified": 1735874256.1066327,
+        "modified": 1735874758.315839,
         "__class__": "studiolibrary.folderitem.FolderItem"
     },
     "../../!Animations/Movement": {
@@ -13,7 +13,7 @@
         "path": "../../!Animations/Movement",
         "type": "Folder",
         "folder": "../../!Animations",
-        "category": "Animations",
+        "category": "!Animations",
         "modified": 1735874256.1376398,
         "__class__": "studiolibrary.folderitem.FolderItem"
     },
@@ -23,7 +23,7 @@
         "type": "Folder",
         "folder": "../../!Animations/Movement",
         "category": "Movement",
-        "modified": 1735874256.1096334,
+        "modified": 1735874758.3798535,
         "__class__": "studiolibrary.folderitem.FolderItem"
     },
     "../../!Animations/Movement/Run": {
@@ -32,7 +32,7 @@
         "type": "Folder",
         "folder": "../../!Animations/Movement",
         "category": "Movement",
-        "modified": 1735874256.1176353,
+        "modified": 1735874758.488878,
         "__class__": "studiolibrary.folderitem.FolderItem"
     },
     "../../!Animations/Movement/Sneak": {
@@ -41,7 +41,7 @@
         "type": "Folder",
         "folder": "../../!Animations/Movement",
         "category": "Movement",
-        "modified": 1735874256.1346393,
+        "modified": 1735874758.5869007,
         "__class__": "studiolibrary.folderitem.FolderItem"
     },
     "../../!Animations/Movement/Walk": {
@@ -50,7 +50,7 @@
         "type": "Folder",
         "folder": "../../!Animations/Movement",
         "category": "Movement",
-        "modified": 1735874256.1726472,
+        "modified": 1735874758.6819217,
         "__class__": "studiolibrary.folderitem.FolderItem"
     },
     "../../!Poses": {
@@ -140,7 +140,7 @@
         "type": "Folder",
         "folder": "../../!Poses",
         "category": "!Poses",
-        "modified": 1735874345.5456638,
+        "modified": 1735874769.9575408,
         "__class__": "studiolibrary.folderitem.FolderItem"
     },
     "../../Assets": {
@@ -149,7 +149,7 @@
         "type": "Folder",
         "folder": "../..",
         "category": "StudioLibrary",
-        "modified": 1735874345.5516653,
+        "modified": 1735874864.3768854,
         "__class__": "studiolibrary.folderitem.FolderItem"
     },
     "../../Assets/!HumanMirrorTable.mirror": {
@@ -170,13 +170,31 @@
         "modified": 1735874345.5486646,
         "__class__": "studiolibrarymaya.setsitem.SetsItem"
     },
+    "../../Assets/L_FIngers.set": {
+        "name": "L_FIngers.set",
+        "path": "../../Assets/L_FIngers.set",
+        "type": ".set",
+        "folder": "../../Assets",
+        "category": "Assets",
+        "modified": 1735874884.8230307,
+        "__class__": "studiolibrarymaya.setsitem.SetsItem"
+    },
+    "../../Assets/R_Fingers.set": {
+        "name": "R_Fingers.set",
+        "path": "../../Assets/R_Fingers.set",
+        "type": ".set",
+        "folder": "../../Assets",
+        "category": "Assets",
+        "modified": 1735874874.7582545,
+        "__class__": "studiolibrarymaya.setsitem.SetsItem"
+    },
     "../../Trash": {
         "name": "Trash",
         "path": "../../Trash",
         "type": "Folder",
         "folder": "../..",
         "category": "StudioLibrary",
-        "modified": 1735874345.8087072,
+        "modified": 1735874769.9575408,
         "__class__": "studiolibrary.folderitem.FolderItem",
         "icon": "trash.svg"
     },
@@ -600,7 +618,7 @@
         "type": ".pose",
         "folder": "../../Trash",
         "category": "Trash",
-        "modified": 1735874345.5496647,
+        "modified": 1735874884.8230307,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../Trash/LowerBody.pose": {
@@ -635,7 +653,7 @@
         "path": "../../Trash/Poses (2)/Human@DEF_Stance.pose",
         "type": ".pose",
         "folder": "../../Trash/Poses (2)",
-        "category": "Poses",
+        "category": "Poses (2)",
         "modified": 1735874256.1746514,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
@@ -644,7 +662,7 @@
         "path": "../../Trash/Poses (2)/Lower Body",
         "type": "Folder",
         "folder": "../../Trash/Poses (2)",
-        "category": "Poses",
+        "category": "Poses (2)",
         "modified": 1735874256.1746514,
         "__class__": "studiolibrary.folderitem.FolderItem"
     },
@@ -663,7 +681,7 @@
         "type": ".pose",
         "folder": "../../Trash",
         "category": "Trash",
-        "modified": 1735874345.5516653,
+        "modified": 1735874874.7582545,
         "__class__": "studiolibrarymaya.poseitem.PoseItem"
     },
     "../../Trash/UpperBody.pose": {
