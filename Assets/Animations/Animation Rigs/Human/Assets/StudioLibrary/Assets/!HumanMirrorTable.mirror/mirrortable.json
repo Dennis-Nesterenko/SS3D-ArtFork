@@ -1,0 +1,532 @@
+{
+  "metadata": {
+    "left": "*_L",
+    "right": "*_R",
+    "mirrorPlane": [
+      1,
+      1,
+      -1
+    ],
+    "description": "",
+    "user": "Personal",
+    "ctime": "1734316540",
+    "version": "1.0.0",
+    "references": [
+      {
+        "filename": "E:/OneDrive/Projects/Games/RESS3D/Build/SS3D-ArtFork/Assets/Animations/Animation Rigs/Human/HumanAnimRig.ma",
+        "unresolved": "E:/OneDrive/Projects/Games/RESS3D/Build/SS3D-ArtFork/Assets/Animations/Animation Rigs/Human/HumanAnimRig.ma",
+        "namespace": "HumanAnimRig",
+        "node": "HumanAnimRigRN"
+      }
+    ],
+    "mayaVersion": "2024",
+    "mayaSceneFile": ""
+  }
+,
+  "objects": {
+    "HumanAnimRig:Middle1_CTR_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:Spine_CTR": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "HumanAnimRig:FootIK_CTR_R": {
+      "mirrorAxis": [
+        1,
+        -1,
+        -1
+      ]
+    },
+    "HumanAnimRig:LowerArmFK_CTR_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:FeetPlatform_CTR": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "HumanAnimRig:Object_CTR": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "HumanAnimRig:Middle1_CTR_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:ArmOptions_CTR_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:Index2_CTR_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:Hips_CTR": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "HumanAnimRig:Index2_CTR_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:HandFK_CTR_R": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "HumanAnimRig:Index3_CTR_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:HandFK_CTR_L": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "HumanAnimRig:UpperArmFK_CTR_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:FootRoll_CTR_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:Thumb3_CTR_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:Head_CTR_ANIM": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "HumanAnimRig:ArmOptions_CTR_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:RigSettings_CTR": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "HumanAnimRig:LowerLegFK_CTR_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:UpperLegFK_CTR_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:ShoulderFK_CTR_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:KneeVectorIK_CTR_L": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:PDA_CTR": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "HumanAnimRig:Thumb1_CTR_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:Toe_CTR_L": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "HumanAnimRig:Middle3_CTR_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:Index3_CTR_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:Pelvis_CTR": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "HumanAnimRig:ShoulderIK_CTR_L": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        1
+      ]
+    },
+    "HumanAnimRig:FootOptions_CTR_L": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "HumanAnimRig:KneeVectorIK_CTR_R": {
+      "mirrorAxis": [
+        -1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:LowerArmFK_CTR_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:MainRoot_CTR": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "HumanAnimRig:Neck_CTR": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "HumanAnimRig:ObjectOptions_CTR": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "HumanAnimRig:Index1_CTR_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:Ring2_CTR_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:LowerLegFK_CTR_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:FootIK_CTR_L": {
+      "mirrorAxis": [
+        1,
+        -1,
+        -1
+      ]
+    },
+    "HumanAnimRig:ElbowVectorIK_CTR_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:UpperLegFK_CTR_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:Ring1_CTR_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:FootOptions_CTR_R": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "HumanAnimRig:Ring1_CTR_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:Ring2_CTR_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:hold_CTR_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:Ring3_CTR_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:HandIK_CTR_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:ShoulderIK_CTR_R": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        1
+      ]
+    },
+    "HumanAnimRig:Chest_CTR": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "HumanAnimRig:Middle2_CTR_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:Middle3_CTR_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:FootRoll_CTR_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:FootFK_CTR_L": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "HumanAnimRig:Middle2_CTR_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:Thumb2_CTR_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:Ring3_CTR_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:Toe_CTR_R": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "HumanAnimRig:Thumb2_CTR_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:FPVCam": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "HumanAnimRig:ElbowVectorIK_CTR_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:HandIK_CTR_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:Thumb3_CTR_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:ShoulderFK_CTR_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:Index1_CTR_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:UpperArmFK_CTR_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:Thumb1_CTR_R": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    },
+    "HumanAnimRig:FootFK_CTR_R": {
+      "mirrorAxis": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "HumanAnimRig:Head_CTR": {
+      "mirrorAxis": [
+        1,
+        1,
+        -1
+      ]
+    },
+    "HumanAnimRig:hold_CTR_L": {
+      "mirrorAxis": [
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}
