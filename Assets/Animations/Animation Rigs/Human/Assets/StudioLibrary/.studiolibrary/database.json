@@ -8,6 +8,24 @@
         "modified": 1735874758.315839,
         "__class__": "studiolibrary.folderitem.FolderItem"
     },
+    "../../!Animations/FUCLK.anim": {
+        "name": "FUCLK.anim",
+        "path": "../../!Animations/FUCLK.anim",
+        "type": ".anim",
+        "folder": "../../!Animations",
+        "category": "!Animations",
+        "modified": 1736563167.7890017,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
+    "../../!Animations/GOD.anim": {
+        "name": "GOD.anim",
+        "path": "../../!Animations/GOD.anim",
+        "type": ".anim",
+        "folder": "../../!Animations",
+        "category": "!Animations",
+        "modified": 1736563383.3856785,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
     "../../!Animations/Movement": {
         "name": "Movement",
         "path": "../../!Animations/Movement",
@@ -304,6 +322,33 @@
         "folder": "../../Trash",
         "category": "Trash",
         "modified": 1735874345.7103577,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
+    "../../Trash/FUCK (4).anim": {
+        "name": "FUCK (4).anim",
+        "path": "../../Trash/FUCK (4).anim",
+        "type": ".anim",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1736562951.8627598,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
+    "../../Trash/FUCK (5).anim": {
+        "name": "FUCK (5).anim",
+        "path": "../../Trash/FUCK (5).anim",
+        "type": ".anim",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1736562974.4333732,
+        "__class__": "studiolibrary.libraryitem.LibraryItem"
+    },
+    "../../Trash/FUCK (6).anim": {
+        "name": "FUCK (6).anim",
+        "path": "../../Trash/FUCK (6).anim",
+        "type": ".anim",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1736563075.595407,
         "__class__": "studiolibrarymaya.animitem.AnimItem"
     },
     "../../Trash/FUCK.anim": {
