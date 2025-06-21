@@ -13,4 +13,8 @@
 # Windows files
 *.ini
 
+# Krita data files
+*.kra~
+*-autosave.kra
+
 /Assets/Animations/Animation Rigs/Human/Assets/StudioLibrary
